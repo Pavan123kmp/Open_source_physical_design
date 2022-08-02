@@ -38,3 +38,5 @@ The above list of tools shows that, many different tools are required for variou
 
 * VSDFlow - Installs Yosys, Magic, OpenTimer, OpenSTA and some other supporting tools
 * OpenLANE Build Scripts - Install all required OpenROAD and some supporting tools
+
+# Day 1 - Inception of open-source EDA, OpenLANE and Sky130 PDK
